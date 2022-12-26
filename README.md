@@ -11,5 +11,5 @@ Jupyter notebook: https://github.com/khanhvynguyen/boston_crime_analysis/blob/ma
 
 Report: https://github.com/khanhvynguyen/boston_crime_analysis/blob/main/FINAL_PROJECT_REPORT_VyNguyen.pdf
 
-Dashboard link:
+Dashboard link: https://public.tableau.com/views/Boston_Crime_Dashboards/NEUCrime?:language=en-US&:display_count=n&:origin=viz_share_link
 
