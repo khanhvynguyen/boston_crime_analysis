@@ -8,5 +8,8 @@ In this project, I carried out some analysis on Boston Crime dataset, which was 
 
 
 Jupyter notebook: https://github.com/khanhvynguyen/boston_crime_analysis/blob/main/project_cav.ipynb
+
+Report: https://github.com/khanhvynguyen/boston_crime_analysis/blob/main/FINAL_PROJECT_REPORT_VyNguyen.pdf
+
 Dashboard link:
 
