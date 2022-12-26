@@ -1,4 +1,4 @@
-# boston_crime_analysis
+# Boston Crime Analysis
 
 In this project, I carried out some analysis on Boston Crime dataset, which was collected from ....
 
