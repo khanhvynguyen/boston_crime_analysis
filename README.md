@@ -2,9 +2,16 @@
 
 In this project, I carried out some analysis on Boston Crime dataset, which was obtained from Crime Incident Reports, provided by Boston Police Department (BPD) Source: https://data.boston.gov/dataset/crime-incident-reports-august-2015-to-date-source-new-system
 
-+ Performed data processing and analysis of 330K incident records using Python
-+ Generated thoughtful insights to help residents and visitors stay safe, and police identify crime hotspots and improve security in menacing areas
-+ Conducted report and built 4 Tableau dashboards to show the insights
+**The objective of the project** is to help both residents and visitors stay safer, and Boston Police identify crime hotspots, better anticipate staffing needs and improve security in menacing areas. 
+
+**These are research questions for the project:**
+•  Determine the most common crimes in Boston
+• Determine the most dangerous time of year and in a day in Boston
+• Identify the places (District and Street) where crimes are most likely to be committed
+• Crimes related to Shooting analysis
+• Incidents in Boston during Covid pandemic analysis
+• Crimes at Northeastern University area analysis
+
 
 
 Jupyter notebook: https://github.com/khanhvynguyen/boston_crime_analysis/blob/main/project_cav.ipynb
