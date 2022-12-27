@@ -4,7 +4,7 @@ In this project, I carried out some analysis on Boston Crime dataset, which was 
 
 **The objective of the project** is to help both residents and visitors stay safer, and Boston Police identify crime hotspots, better anticipate staffing needs and improve security in menacing areas. 
 
-**These are research questions for the project:**
+**These are 6 research questions for the project:**
 - Determine the most common crimes in Boston
 - Determine the most dangerous time of year and in a day in Boston
 - Identify the places (District and Street) where crimes are most likely to be committed
