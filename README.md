@@ -6,10 +6,15 @@ In this project, I carried out some analysis on Boston Crime dataset, which was 
 
 **These are research questions for the project:**
 •  Determine the most common crimes in Boston
+
 • Determine the most dangerous time of year and in a day in Boston
+
 • Identify the places (District and Street) where crimes are most likely to be committed
+
 • Crimes related to Shooting analysis
+
 • Incidents in Boston during Covid pandemic analysis
+
 • Crimes at Northeastern University area analysis
 
 
