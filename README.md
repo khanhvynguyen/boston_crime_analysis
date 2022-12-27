@@ -1,6 +1,6 @@
 # Boston Crime Analysis
 
-In this project, I carried out some analysis on Boston Crime dataset, which was collected from ....
+In this project, I carried out some analysis on Boston Crime dataset, which was obtained from Crime Incident Reports, provided by Boston Police Department (BPD) Source: https://data.boston.gov/dataset/crime-incident-reports-august-2015-to-date-source-new-system
 
 + Performed data processing and analysis of 330K incident records using Python
 + Generated thoughtful insights to help residents and visitors stay safe, and police identify crime hotspots and improve security in menacing areas
